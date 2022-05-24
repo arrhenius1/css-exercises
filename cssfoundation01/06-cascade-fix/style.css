@@ -11,12 +11,12 @@
     font-size: 38px;
     font-weight: bold;
     background-color: green;
-    border-color: gray;
+    border-color: #ffffff;
 }
 #cancel-button {
     font-size: 38px;
     background-color: white;
-    border-color: gray;
+    border-color: #ffffff;
 }
 .text {
     color: green;
