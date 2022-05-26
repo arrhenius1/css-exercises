@@ -29,7 +29,7 @@ body {
     padding: 8px;
     margin: 8px;
     align-content: center;
-    text-align: center;
+   
   }
   
   button {
@@ -41,6 +41,6 @@ body {
     padding-top: 8px;
     padding-bottom: 8px;
     display: block;
-    text-align: center;
+  
 
   }
