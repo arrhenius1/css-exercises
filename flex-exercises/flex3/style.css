@@ -12,7 +12,6 @@ body {
     box-shadow: 0 0 8px rgba(0,0,0,.1);
     display: flex;
     justify-content: space-between;
-    padding: 16px;
     gap: 8px;
 }
   .header .links {
@@ -52,9 +51,14 @@ body {
   ul {
     list-style-type: none;
     display: flex;
-    margin: 15px;
+    margin: 0;
     padding: 0;
     gap: 16px;
-    justify-content: flex-start;
+  }
+  .left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 8px;
   }
   
